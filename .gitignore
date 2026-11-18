@@ -30,3 +30,9 @@ Platform/infra/environments/*/secrets.auto.tfvars
 # Environment file holding account IDs, ODCR IDs, profile names, etc.
 # Committed template: .env.example. Real values never committed.
 .env
+
+# Local training and experiment artifacts
+/checkpoints/
+/datasets/
+/external_storage/
+/host_logs/

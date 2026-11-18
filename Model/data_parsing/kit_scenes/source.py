@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import Mapping, Sequence
 
 KITSCENES_REPO_ID = "KIT-MRT/KITScenes-Multimodal"
-KITSCENES_DATA_REVISION = "6fde0034446669e2ed7235e4c7fe323cd23d599d"
+KITSCENES_DATA_REVISION = "d6e8ee0fccd016d4e7815a52be00d26c0f1785ce"
 KITSCENES_SDK_REVISION = "7765cdec5490894266070ab46e23724b58b3da42"
 KITSCENES_MANIFEST_PATH = "data/sequence_archives.csv"
 
